@@ -76,3 +76,12 @@ li {
     font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
 }
+
+.daud {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: rgb(31, 25, 25);
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
