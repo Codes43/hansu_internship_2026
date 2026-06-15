@@ -49,3 +49,11 @@ li {
     font-style: italic;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+.warsame{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: rgb(234, 234, 26);
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
