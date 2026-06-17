@@ -50,6 +50,15 @@ li {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+.warsame {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: rgb(234, 234, 26);
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 .aliyu {
     display: flex;
     flex-direction: column;
@@ -66,7 +75,7 @@ li {
     color: darkorange;
     font-weight: bold;
     font-size: 35px;
-    font-family: 'Georgia', serif;
+    font-family: Georgia, serif;
 }
 
 .mb {
