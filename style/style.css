@@ -1,10 +1,10 @@
-body{
+body {
     background-color: white;
     align-items: center;
     justify-content: center;
 }
 
-.head{
+.head {
     font-size: 50px;
     color: black;
     text-align: center;
@@ -16,14 +16,14 @@ li {
     color: white;
 }
 
-.albert{
+.albert {
     display: flex;
     flex-direction: column;
     align-items: center;
     color: rgb(139, 22, 22);
 }
 
-.waako{
+.waako {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -32,7 +32,7 @@ li {
     font-family: 'Courier New', Courier, monospace;
 }
 
-.basel{
+.basel {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -41,7 +41,7 @@ li {
     font-family: 'Courier New', Courier, monospace;
 }
 
-.ccMohamud{
+.ccMohamud {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -50,28 +50,30 @@ li {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.aliyu{
+.aliyu {
     display: flex;
     flex-direction: column;
     align-items: center;
     color: blueviolet;
-    font-weight: italic;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.aliyu{
+.tamale {
     display: flex;
     flex-direction: column;
     align-items: center;
-    color: blueviolet;
-    font-weight: italic;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: darkorange;
+    font-weight: bold;
+    font-size: 35px;
+    font-family: 'Georgia', serif;
 }
-.Tamale{
+
+.mb {
     display: flex;
     flex-direction: column;
     align-items: center;
-    color: blueviolet;
-    font-weight: italic;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 0, 0);
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
 }
