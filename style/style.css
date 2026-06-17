@@ -20,14 +20,14 @@ li {
     display: flex;
     flex-direction: column;
     align-items: center;
-    color: rgb(139, 22, 22);
+    color: yellow;
 }
 
 .waako{
     display: flex;
     flex-direction: column;
     align-items: center;
-    color: green;
+    color: red;
     font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
 }
