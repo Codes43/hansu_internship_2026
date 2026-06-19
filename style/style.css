@@ -95,6 +95,15 @@ li {
     font-style: italic;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+<<<<<<< HEAD
+.chams {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #059a0f;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+=======
 
 .halidi {
     display: flex;
@@ -103,4 +112,5 @@ li {
     color: rgb(169, 142, 194);
     font-style: italic;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+>>>>>>> upstream/main
 }
