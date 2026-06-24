@@ -109,7 +109,7 @@ li {
     display: flex;
     flex-direction: column;
     align-items: center;
-    color: aquamarine;
+    color: rgb(25, 249, 0);
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
 }
